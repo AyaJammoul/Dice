@@ -1,0 +1,36 @@
+body {
+    text-align: center !important;
+    background-color: #1B3C53 !important;
+    color: #78B9B5 !important;
+    margin-top: 5% !important;
+}
+
+h1 {
+    font-family: 'Playwrite AU QLD' !important;
+    font-weight: bold;
+    font-size: 100px !important;
+}
+
+h3 {
+    margin-bottom: 10% !important;
+}
+
+.container {
+    display: flex;
+    margin-top: 8% !important;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+    margin-top: 50px;
+    flex-wrap: wrap;
+    font-family: 'Playwrite AU QLD' !important;
+}
+
+.player {
+    text-align: center;
+}
+
+.player img {
+    width: 250px;
+    height: auto;
+}
